@@ -10,7 +10,7 @@ profile_urls = ["https://www.linkedin.com/in/nagendra-annam-16683b266/",
                 "https://www.linkedin.com/in/shashwat-hirapure-18042000/",
                 "https://www.linkedin.com/in/bharath-k-807a61145/",
                 "https://www.linkedin.com/in/kamalkalyan/",
-                "https://www.linkedin.com/in/venkata-rao-189a462a5/"
+                "https://www.linkedin.com/in/bandla-mahendra-358201235/"
                 ]
 driver = webdriver.Chrome()
 driver.get("https://linkedin.com/login")
